@@ -37,3 +37,7 @@
 ### inspiration · 灵感库
 
 - [跨领域理论线索池](inspiration/README.md)
+
+
+## License
+This project is licensed under the GNU General Public License v3.0 — see the [LICENSE](LICENSE) file for details.
